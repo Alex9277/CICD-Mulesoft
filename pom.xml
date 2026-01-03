@@ -37,7 +37,7 @@
             <environment>Sandbox</environment>
             <target>Cloudhub-US-East-2</target>
             <server>Repository</server>
-            <applicationName>${project.artifactId}</applicationName>
+            <applicationName>mydemo-cicd</applicationName>
             <releaseChannel>Edge</releaseChannel>
             <muleVersion>4.10.1</muleVersion>
             <replicas>1</replicas>
